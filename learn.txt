@@ -5,3 +5,5 @@ add new line.
 add second lien.
 
 Creating a new branch is quick and simple.
+
+Fast forward --no--ff way
