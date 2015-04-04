@@ -7,3 +7,9 @@ add second lien.
 Creating a new branch is quick and Easy.
 
 Fast forward --no--ff way
+
+git stash.
+
+add
+
+new add deve
