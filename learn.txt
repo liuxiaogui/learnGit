@@ -13,3 +13,7 @@ git stash.
 add
 
 new add deve
+
+iFast forward --no--ff way
+
+add dev dir`
